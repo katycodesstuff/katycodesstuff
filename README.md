@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @katycodesstuff. I'm a senior software engineer by title, but still very much learning and growing ✨
+- 👋 Hi, I’m @katycodesstuff. I'm a senior software engineer specialised in C#/.NET ✨
 - 👀 I’m interested in learning more about frontend development!
 - 🌱 I’m currently learning SQL, and want to start learning React soon. 
-- 💞️ I’m looking to collaborate on anything!
+- 💞️ I’m looking to collaborate on Open Source Software!
 - 📫 How to reach me ... ![Twitter Follow](https://img.shields.io/twitter/follow/KatyCodesStuff?style=social)
