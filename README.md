@@ -11,7 +11,8 @@ I primarily work with C#/.NET, Angular and TS.
 I love problem solving and writing readable, testable and reliable code.
 
 * 🌍  I'm based in United Kingdom
-* 🖥️  See my portfolio at [blog.katycodesstuff.com](http://blog.katycodesstuff.com)
+* 🖥️  See my portfolio at [blog.katycodesstuff.com](https://katycodesstuff.com)
+* 📝  Read my technical articles at [hn.katycodesstuff.com](https://hn.katycodesstuff.com)
 * ✉️  You can contact me at [katycodesstuff@gmail.com](mailto:katycodesstuff@gmail.com) or on Twitter via [@KatyCodesStuff](https://twitter.com/KatyCodesStuff)
 * 🧠  I'm learning React
 
